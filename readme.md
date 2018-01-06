@@ -6,7 +6,7 @@ Laravel is a web application framework with expressive, elegant syntax. Laravel 
 
 I, backed by AceLords, therefore, saw an oportunity to create a feature-rich Freelance Web App to take advantage of the huge security features implemented in the system. so far, the journey has been good!
 
-Soon the system will integrate [vue.js](https://vue.js) to take advantage of the major capabilities of building a hybrid App to go hand-in-hand with the system. It's a long journey that we can't wait to reach the end.
+Soon the system will integrate [vue.js](https://vuejs.org) to take advantage of the major capabilities of building a hybrid App to go hand-in-hand with the system. It's a long journey that we can't wait to reach the end.
 
 ## What's Inside
 * User Management System: Superadmin, Admin, client/Student, Writer/Tutor, Support, Editor, Manager

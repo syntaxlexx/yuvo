@@ -1,0 +1,32 @@
+{
+    "name": "lexxyungcarter/acelords_yuvo",
+    "description": "A WebApp Freelance System for Managing Orders and Users",
+    "type": "project",
+    "keywords": ["freelance", "acelords", "lexx", "system", "manage orders", "writers"],
+    "license": "Private",
+    "authors": [
+        {
+            "name": "Lexx YungCarter",
+            "email": "lexxyungcarter@gmail.com",
+            "homepage": "https://github.com/lexxyungcarter",
+            "role": "Developer"
+        },
+        {
+            "name": "AceLords",
+            "email": "acelords.space@gmail.com",
+            "homepage": "https://acelords.space",
+            "role": "Collaborators"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "knox/pesapal": "^1.3",                
+        "laravel/framework": "5.5.*",
+        "lexxyungcarter/freelancemessenger": "^1.0",
+        "niklasravnsborg/laravel-pdf": "^1.1",
+        "paypal/rest-api-sdk-php": "*",
+        "pusher/pusher-php-server": "^3.0",
+        "spatie/laravel-sitemap": "^3.3",
+        "yajra/laravel-datatables-oracle": "~6.0"               
+    }
+}

@@ -1,8 +1,8 @@
 {
     "name": "lexxyungcarter/acelords_yuvo",
-    "description": "A WebApp Freelance System for Managing Orders and Users",
+    "description": "A Freelance WebApp System for Managing Orders, Users, and anything in-between",
     "type": "project",
-    "keywords": ["freelance", "acelords", "lexx", "system", "manage orders", "writers"],
+    "keywords": ["freelance", "acelords", "lexx", "system", "manage orders", "writers", "messaging", "php", "laravel", "laravel-framework"],
     "license": "Private",
     "authors": [
         {

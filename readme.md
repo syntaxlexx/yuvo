@@ -1,6 +1,6 @@
 # Laravel 5 Freelance WebApp System 
 
-## About This Project (Based on the expressive Laravel Framework)
+## About This Project (Based on the magnificent Laravel Framework)
 
 Laravel is a web application framework with expressive, elegant syntax. Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
@@ -84,3 +84,5 @@ Demo links are under maintenance at the moment due to a server upgrade. Leave us
 * WhatsApp (Only - **No Calls**): **+254737566507** 
 * Website: **[AceLords](https://www.acelords.space)** 
 
+### Notes
+The composer.json file contained here contains only a few of the common vendor packages used by the system. it is not to be regarded as the exact replica of the project's exact packages. The project itself utilizes ~22 packages which have intentionally been secluded due to proprietary reasons.

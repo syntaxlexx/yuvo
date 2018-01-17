@@ -85,4 +85,5 @@ Demo links are under maintenance at the moment due to a server upgrade. Leave us
 * Website: **[AceLords](https://www.acelords.space)** 
 
 ### Notes
-The composer.json file contained here contains only a few of the common vendor packages used by the system. it is not to be regarded as the exact replica of the project's exact packages. The project itself utilizes ~22 packages which have intentionally been secluded due to proprietary reasons.
+*   The system is modular in nature, meaning you-get-what-you-pay-for. This was agreed upon by our partners to make the system more reachable, affordable and dynamic to our clientel.
+*   The composer.json file contained here contains only a few of the common vendor packages used by the system. it is not to be regarded as the exact replica of the project's exact packages. The project itself utilizes ~22 packages which have intentionally been secluded due to proprietary reasons.

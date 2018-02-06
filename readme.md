@@ -76,8 +76,8 @@ You can read the CHANGELOG in this repo to get a view of all the featues include
 
 ## Where's the Demo?
 Demo links are constantly under maintenance as new features are rolled out. Leave us an email in case you need more clarification.
-* [AceLords Yuvo](https://www.yuvo.acelords.space) : full-blown system
-* [AceLords WritersHub](https://www.writershub.acelords.space) : writer's backend
+* [AceLords Yuvo](https://yuvo.acelords.space) : full-blown system
+* [AceLords WritersHub](https://writershub.acelords.space) : writer's backend
 * Database ERD (7 sets) created/designed with Microsoft Visio [Leave us an email if interested](mailto:hello@acelords.space)
 
 
